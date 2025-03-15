@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 ```yaml
 ~ $ cat /etc/profile.yaml
 name: ZOI_dayo / ZOI / zoi (ぞい)
-age: 18
+age: 19
 programming:
   language:
-    C++: 主に競技プログラミングで利用
-    HTML/CSS/JS: ある程度のWebデザインができる程度
+    C++: 主に競技プログラミングで利用しています
+    Web: Vue.js・TS・tailwind CSSを用いてWebページを作成できます
     Node.js: スクレイピングやDiscord Bot制作ができる程度
-    Java: MinecraftのMod/Plugin開発で使ったけど忘れた、元は一番得意な言語
-    Bash: とてもたのしい、けど正しく書けない
+    Java: MinecraftのMod/Plugin開発で利用経験があります
+    Bash: 単純なコマンドの自動化程度はできます
     Dart: Flutterでアプリを作れる程度
     C-sharp: Unityでのゲーム制作で利用
-    Rust: スクレイピングができる程度
-    Python: スクレイピング・グラフ描画あたり、ただし文法が嫌い
-    Lua: Minecraft(ComputerCraft)やNeoVimで使ったことはある
-    Arduino: 初めて触った言語、あんまりできない
+    Rust: 最低限、エラーハンドリングやasync-awaitなどを利用したコードが書けます
+    Python: スクレイピング・グラフ描画や、部内Kaggleコンペでの利用経験があります
+    Lua: Minecraft(ComputerCraft)やNeoVimでの利用経験があります
+    Arduino: 初めて触った言語、あまり経験がありません
   ability:
     - サーバー管理
     - Web開発
@@ -45,10 +45,12 @@ programming:
     NeoVim: 競技プログラミングで利用
     JetBrains: 旧メインエディタ
   achievement:
-    - AtCoder 水
+    - AtCoder 青
+    - ISUCON14 全体115位 / 学生10位
     - ウェブデザイン技能検定 2級
     - 第24回 全国中学高校Webコンテスト 金賞
     - パソコン甲子園2022 モバイル部門 ベストデザイン賞・企業賞
+    - パソコン甲子園2023 プログラミング部門 本戦進出
 accounts:
   Mail: zoizoi.dayo@gmail.com
   Twitter: @ZOI_dayo
@@ -56,6 +58,6 @@ accounts:
   GitHub: ZOI-dayo
   AtCoder: ZOIZOI
 
-updated-at: 2023-09-24
+updated-at: 2025-03-15
 ~ $ 
 ```
