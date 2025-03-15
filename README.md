@@ -40,10 +40,10 @@ programming:
     - 動画/画像編集
     - 3Dモデリング
   editor:
-    VSCode: Web系、または軽い編集
+    VSCode: 軽いテキスト編集
     Vim: サーバー上でのみ利用
     NeoVim: 競技プログラミングで利用
-    JetBrains: 旧メインエディタ
+    JetBrains: UnityやRust、またWeb関連の開発で使用
   achievement:
     - AtCoder 青
     - ISUCON14 全体115位 / 学生10位
